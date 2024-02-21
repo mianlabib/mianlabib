@@ -37,3 +37,8 @@ Let's weave our skills, ideas, and dreams into something truly magical!
 ## Thank You for Visiting!
 
 Your journey through my GitHub profile is greatly appreciated. Don't forget to sprinkle some stardust by starring ⭐️ any projects that catch your eye! Together, let's create a world where technology and creativity collide spectacularly! 🚀✨
+
+#### Profile Views
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=mianlabib)
+ <br/>
