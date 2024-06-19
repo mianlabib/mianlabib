@@ -20,7 +20,7 @@ Welcome to my vibrant corner on GitHub! I'm Mian Labib, a dynamic Full Stack Dev
 
 Here's a sneak peek into some of the captivating projects I've conjured:
 
-- ✨ **Project A**: Description of the magic woven in Project A.
+- ✨ **[My Portfolio](https://github.com/mianlabib/my-portfolio)**: This is my portfolio use react and tailwind with vite.
 - ✨ **Project B**: Behold the wizardry of Project B!
 - ✨ **Project C**: Explore the enchantment of Project C.
 
